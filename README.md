@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MyBank App**
 
-- 🌱 I’m currently learning **ASP.NET Core MVC**
+- 🌱 I’m currently learning **React & .NET API**
 
 - 📫 How to reach me **tkalejaiye012@gmail.com**
 
