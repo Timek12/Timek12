@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Timothy Kalejaiye</h1>
-<h3 align="center">A passionate software developer</h3>
 
 - 🔭 I’m currently working on **MyBank App**
 
