@@ -1,4 +1,6 @@
-<h3 >Hi 👋, I'm Timothy</h3>
+<h1 >Hi 👋, I'm Timothy</h1>
+<h3>Computer Science student at Lodz University of Technology.</h3>  
+
 
 - 🔭 I’m currently working on **FocusFlow**, which is app that I'm building to help people get organized and boost productivity. 
 
