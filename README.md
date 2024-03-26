@@ -1,7 +1,6 @@
 <h1 >Hi 👋, I'm Timothy</h1>
-<h3>Computer Science student at Lodz University of Technology.</h3>  
 
- 🔭 I’m currently working on **FocusFlow**, which is app that I'm building to help people get organized and boost productivity. 
+ I’m currently working on **FocusFlow**, which is an app to help people get organized and boost productivity. 
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Timek12&show_icons=true&locale=en&layout=compact" alt="Timek12" /></p>
